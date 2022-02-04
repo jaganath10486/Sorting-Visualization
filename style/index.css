@@ -102,21 +102,21 @@
     }
     .nav-item.arrayHeading
     {
-        padding-right: 100px;
+        padding-right: 20px;
     }
     #leftMost
     {
         padding:0px;
-        padding-right: 30px;
+        padding-right: 20px;
     }
     .nav-item.algoHeading
     {
-        padding-right: 30px;
+        padding-right: 10px;
     }
     #heading
     {
-        padding-left: 150px;
-        padding-right: 100px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
     #array
     {
